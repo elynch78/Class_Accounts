@@ -30,3 +30,4 @@ Name | Username | Fun Fact
 Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator and no longer recommend this to anyone. :crocodile:
 Jony L. | .[jlopezc28](https://github.com/jlopezc28) | I love to skate
 Zhivan F. | [Zfloren98](https://github.com/Zfloren98) | I've lived in fourteen different houses.
+Ellen L. | [elynch78](https://github.com/elynch78) | I play volleyball and like to run.
